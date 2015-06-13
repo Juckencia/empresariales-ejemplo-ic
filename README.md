@@ -30,7 +30,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## License
 
-Copyright (c) 2015 Ju. Licensed under the MIT license.
+Copyright (c) 2015 Juliana Zuluaga Carvajal y Leidy Johana Restrepo Montoya. Licensed under the MIT license.
 
 
 
